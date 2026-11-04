@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://ashishranjan-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ashishranjan--ai.vercel.app-111?style=flat-square" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ashish-ranjan6"><img src="https://img.shields.io/badge/LinkedIn-ashish--ranjan6-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:ashishranjaniitp@gmail.com"><img src="https://img.shields.io/badge/Email-ashishranjaniitp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
