@@ -27,7 +27,7 @@ I build with coding agents every day. My part is the design, the diagnosis and c
 
 - **Infivector, FDE intern (Jul 2026 to now).** Two-person team with the founder, so I own work end to end:
   - **AION**, an enterprise LLM gateway in Go: backend fixes, plus the benchmarking and acceptance-testing harness used in customer pilots. Public examples: [budget retry fix](https://github.com/ShubhamDX/aion/pull/19), [Bedrock response parsing](https://github.com/ShubhamDX/aion/pull/21), [budget tests](https://github.com/ShubhamDX/aion/pull/33).
-  - **Conduit**, a desktop app that runs and manages coding agents: 60+ merged PRs on Windows support, agent adapters, connectors and status reporting. The repository is private.
+  - **Conduit**, a desktop app that runs and manages coding agents: Windows support, agent adapters, connectors and status reporting. The repository is private.
 - Final year of a BS in Computer Science and Data Analytics at **IIT Patna** (CPI 8.88).
 
 ### Selected work
@@ -41,9 +41,7 @@ I build with coding agents every day. My part is the design, the diagnosis and c
 
 ### Upstream contributions
 
-- **Kestra**, three merged: [stream `FilterItems` / `DeduplicateItems` records instead of loading the whole file into memory](https://github.com/kestra-io/kestra/pull/21997), [unit tests for `PlaceholderContentWidget`](https://github.com/kestra-io/kestra/pull/21724), and a [Go benchmark regression gate blueprint](https://github.com/kestra-io/blueprints/pull/4831).
-- **LiteLLM**, in review: [Terraform provider reads org members back from the proxy, so changes made outside Terraform show as drift](https://github.com/BerriAI/litellm/pull/49699).
-- **InsForge**, in review: [list S3 objects in byte order so prefixes are not repeated across pages](https://github.com/InsForge/InsForge/pull/2100).
+- **Kestra core fix, merged:** [stream `FilterItems` / `DeduplicateItems` records instead of loading the whole file into memory](https://github.com/kestra-io/kestra/pull/21997). Also merged: [unit tests for a UI widget](https://github.com/kestra-io/kestra/pull/21724) and a [Go benchmark regression gate blueprint](https://github.com/kestra-io/blueprints/pull/4831).
 
 [![Kestra contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
